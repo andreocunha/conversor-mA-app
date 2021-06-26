@@ -1,4 +1,4 @@
-Projeto criado com React Native (Expo)
+Projeto criado com React Native (Expo)<br /><br />
 Aplicativo feito para que os trabalhadores da área de automação e instrumentação da Vale possam utilizar, facilitando nos cálculos
 
 ## Rodando o projeto na sua máquina
